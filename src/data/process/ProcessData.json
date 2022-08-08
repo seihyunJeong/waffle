@@ -2,7 +2,7 @@
 
     {
         "id": 1,
-        "thumb": "/images/others/process-1.png",
+        "thumb": "/images/icon/icon-47.png",
         "subtitle": "Q1",
         "title": "왜 내가 사고 싶은 제품은,",
         "title_sub": "항상 할인하고 나서 알게 될까?",
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "thumb": "/images/others/process-2.png",
+        "thumb": "/images/icon/icon-42.png",
         "subtitle": "Q2",
         "title": "왜 할인 혜택이 있다면서,",
         "title_sub": "나는 적용받지 못할까?",
@@ -18,7 +18,7 @@
     },
     {
         "id": 3,
-        "thumb": "/images/others/process-3.png",
+        "thumb": "/images/icon/icon-34.png",
         "subtitle": "Q3",
         "title": "다들 할인을 한다는데,",
         "title_sub": "여기가 제일 싼게 맞을까?",

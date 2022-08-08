@@ -23,7 +23,7 @@ const ProcessOne = () => {
                     <div key={data.id} className={`process-work ${(data.id % 2  === 0) ? "content-reverse" : ""}`}>
                         <Tilty perspective={2000}>
                             <div className="thumbnail">
-                                <img src={process.env.PUBLIC_URL + data.thumb} alt="Thumbnail" />
+                                <img src={process.env.PUBLIC_URL + data.thumb} alt="Thumbnail"/>
                             </div>
                         </Tilty>
                     <div className="content">
