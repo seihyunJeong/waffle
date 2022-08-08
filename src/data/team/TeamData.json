@@ -1,0 +1,82 @@
+[
+    {   "id": 1,
+        "thumb": "/images/team/team-1.png",
+        "title": "권형준",
+        "designation": "CEO / Business Development",
+        "description": " 피할수 없으면 즐겨라!",
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    },
+    {   "id": 2,
+        "thumb": "/images/team/team-2.png",
+        "title": "정세현",
+        "designation": "CTO / Software Engineer",
+        "description": "Life is Cool!",
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    },
+    {   "id": 3,
+        "thumb": "/images/team/team-3.png",
+        "title": "UX/UI designer",
+        "designation": "We are Hiring",
+        "description": "디자인 감각적으로 존나 잘 뽑는 사람",
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    },
+    {   "id": 4,
+        "thumb": "/images/team/team-3.png",
+        "title": "Frontend Develeper",
+        "designation": "We are Hiring",
+        "description": "가성비 좋은 새끼",
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    },
+    {   "id": 5,
+        "thumb": "/images/team/team-3.png",
+        "title": "Backend Develeper",
+        "designation": "We are Hiring",
+        "description": "Live service 운영해본 분, AWS expert",
+        "social": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "pinterst": "https://www.pinterest.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/",
+            "vimeo": "https://vimeo.com/",
+            "dribble": "https://dribbble.com/",
+            "behance": "https://www.behance.net/"
+        }
+    }
+]
